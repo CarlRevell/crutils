@@ -1,2 +1,4 @@
 crutils
 =======
+
+Javascript utility library.
